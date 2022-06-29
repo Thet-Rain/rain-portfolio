@@ -1,0 +1,167 @@
+
+
+a
+{
+  color: #11999E;
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+a:hover
+{
+  color: gold;
+}
+body
+{
+  margin : 0 0 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+footer
+{
+  background-color: #66BFBF;
+}
+
+h1
+{
+  color: #66BFBF;
+  margin :0 auto;
+  margin: 50px auto 0 auto;
+  width: 20%;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  line-height: 2;
+
+}
+
+h2
+{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+}
+
+h3
+{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p
+{
+  line-height: 2;
+}
+
+hr
+{
+  border: dotted black 6px ;
+  border-bottom: none;
+  width: 5%;
+  margin :100px auto 100px auto;
+}
+
+
+
+.botCloud
+{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.contact-me
+{
+  margin : 0 auto 0 auto;
+  padding-bottom: 50px;
+}
+
+.btn
+{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.copyright
+{
+  color: white;
+}
+
+.profilePicture
+{
+  width: 300px;
+  height: 300px;
+}
+
+.skill-pic1
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-pic2
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.topCloud
+{
+  position:absolute;
+  right :350px;
+  top: 50px;
+}
+
+.topContainer
+{
+ background-color: #FFF5EB;
+ padding-top : 100px;
+ position : relative;
+}
+
+.bottomContainer
+{
+  background-color: #66BFBF;
+  padding : 50px 0 20px 0;
+  position : relative;
+}
+
+
+/*FORM CSS */
+
+.contact-form
+{
+background-color: white;
+display: inline-block;
+padding: 20px;
+border: solid 1px black;
+}
